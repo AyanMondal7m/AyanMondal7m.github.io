@@ -80,7 +80,7 @@ p {
     color: 	#FF0000
     }
 
-.profile-image{
+<!--.profile-image{
 	max-height: 3%;
     max-width: 30%;
     float: right;
@@ -104,7 +104,7 @@ p {
   .profile-image {
     max-width: 30%;
   }
-}
+} -->
 
 @media (min-width:1200px) {
   .profile-image {
